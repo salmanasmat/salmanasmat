@@ -1,13 +1,13 @@
 <!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20%26%20Software%20Developer&descAlignY=58&descSize=25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descSize=25" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Building+awesome+applications...;Turning+coffee+into+code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Building+awesome+applications...;Turning+coffee+into+code..." alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="http://www.salmanasmat.com">
-    <img src="https://img.shields.io/badge/Portfolio-salmanasmat.com-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-salmanasmat.com-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
   <a href="https://github.com/salmanasmat">
     <img src="https://img.shields.io/badge/GitHub-salmanasmat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -27,7 +27,6 @@
         <li>🤖 <strong>My philosophy:</strong> Automating things out of pure laziness! If I have to do it twice, I write a script for it.</li>
         <li>🚀 Exploring modern web frameworks and refining my backend skills.</li>
         <li>💬 Ask me about <strong>Python, Automation, Desktop Apps, and Web Dev</strong>.</li>
-        <li>📫 How to reach me: Check out my <a href="http://www.salmanasmat.com">website</a>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -44,18 +43,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanasmat&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Salman's Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Agent-Antigravity-36BCF7?style=for-the-badge&logo=android&logoColor=white" alt="Antigravity" />
 </p>
 
 <br/>
