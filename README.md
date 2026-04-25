@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode,ps,ai,postman,sqlite,sublime,visualstudio,windows,apple,stackoverflow,jquery,mysql,wordpress,devto,eclipse&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
