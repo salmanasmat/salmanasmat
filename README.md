@@ -21,7 +21,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <ul>
         <li>💻 I’m a passionate <strong>Web and Software Developer</strong> focused on building clean and efficient solutions.</li>
         <li>🤖 <strong>My philosophy:</strong> Automating things out of pure laziness! If I have to do it twice, I write a script for it.</li>
@@ -29,11 +29,7 @@
         <li>💬 Ask me about <strong>Python, Automation, Desktop Apps, and Web Dev</strong>.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <a href="https://github.com/salmanasmat/mosque-management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanasmat&repo=mosque-management&theme=tokyonight&hide_border=true" alt="Mosque Management App" />
-      </a>
-    </td>
+   
   </tr>
 </table>
 
@@ -60,10 +56,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=salmanasmat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
