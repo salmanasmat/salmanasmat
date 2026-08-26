@@ -1,8 +1,8 @@
 <!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descSize=25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&[...]
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Building+awesome+applications...;Turning+coffee+into+code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Buildi[...]
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <tr>
     <td width="100%" valign="top">
       <ul>
-        <li>💻 I’m a passionate <strong>Web and Software Developer</strong> focused on building clean and efficient solutions.</li>
+        <li>💻 I'm a passionate <strong>Web and Software Developer</strong> focused on building clean and efficient solutions.</li>
         <li>🤖 <strong>My philosophy:</strong> Automating things out of pure laziness! If I have to do it twice, I write a script for it.</li>
         <li>🚀 Exploring modern web frameworks and refining my backend skills.</li>
         <li>💬 Ask me about <strong>Python, Automation, Desktop Apps, and Web Dev</strong>.</li>
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode,ps,ai,postman,sqlite,sublime,visualstudio,windows,apple,stackoverflow,jquery,mysql,wordpress,devto,eclipse&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode,ps,ai,postman,sqlite,sublime,visualstudio,windows,apple,stackove[...]
   </a>
 </p>
 
@@ -48,6 +48,9 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Agent-Antigravity-36BCF7?style=for-the-badge&logo=android&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude-Code-000000?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual-Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </p>
 
 <br/>
