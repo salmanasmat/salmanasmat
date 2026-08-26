@@ -1,8 +1,8 @@
 <!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descFontSize=29&descAlignX=87&descAlign=62&rotate=0&descSize=0&thickness=6" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Buildi[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Building+scalable+solutions;Writing+code+that+speaks+for+itself" />
 </div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode,ps,ai,postman,sqlite,sublime,visualstudio,windows,apple,stackove[...]
+    <img src="https://skillicons.dev/icons?i=py,php,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux,docker,vscode,ps,ai,postman,sqlite,sublime,visualstudio,windows,apple,stackoverflow" />
   </a>
 </p>
 
