@@ -54,18 +54,16 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Stats & Achievements
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://git.io/streak-stats?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub%20Contributions-Active-36BCF7?style=for-the-badge" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=for-the-badge" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Code%20Quality-High%20Priority-blue?style=for-the-badge" alt="Code Quality" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=salmanasmat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-  </a>
+  <strong>📈 Check my repositories for projects and contributions</strong>
 </p>
 
 <!-- Footer Capsule -->
