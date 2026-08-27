@@ -57,19 +57,13 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanasmat&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanasmat&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
+</p>
 
 <!-- Footer Capsule -->
 <p align="center">
