@@ -54,24 +54,17 @@
 
 <br/>
 
-## 📊 GitHub Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-wine.vercel.app?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-## 📈 Stats & Achievements
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Contributions-Active-36BCF7?style=for-the-badge" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/Contribution%20Streak-Active-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Streak" />
+  <img src="https://img.shields.io/badge/GitHub%20Contributions-Consistent-36BCF7?style=for-the-badge" alt="GitHub Contributions" />
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=for-the-badge" alt="Open Source" />
   <img src="https://img.shields.io/badge/Code%20Quality-High%20Priority-blue?style=for-the-badge" alt="Code Quality" />
 </p>
 
 <p align="center">
-  <strong>📈 Check my repositories for projects and contributions</strong>
+  <strong>📈 Check my <a href="https://github.com/salmanasmat?tab=repositories">repositories</a> for projects and contributions</strong>
 </p>
 
 <!-- Footer Capsule -->
