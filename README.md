@@ -1,5 +1,5 @@
 <!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descFontSize=29&descAlignX=87&descAlign=62&rotate=0&descSize=0&thickness=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descFontSize=29&descAlignX=87&descAlign=62&rotate=0&thickness=6" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness...;Building+scalable+solutions;Writing+code+that+speaks+for+itself" />
@@ -29,7 +29,6 @@
         <li>💬 Ask me about <strong>Python, Automation, Desktop Apps, and Web Dev</strong>.</li>
       </ul>
     </td>
-   
   </tr>
 </table>
 
@@ -58,11 +57,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanasmat&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanasmat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 <!-- Footer Capsule -->
