@@ -57,14 +57,11 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution%20Streak-Active-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Streak" />
-  <img src="https://img.shields.io/badge/GitHub%20Contributions-Consistent-36BCF7?style=for-the-badge" alt="GitHub Contributions" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=for-the-badge" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Code%20Quality-High%20Priority-blue?style=for-the-badge" alt="Code Quality" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanasmat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <strong>📈 Check my <a href="https://github.com/salmanasmat?tab=repositories">repositories</a> for projects and contributions</strong>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanasmat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Footer Capsule -->
