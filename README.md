@@ -54,7 +54,15 @@
 
 <br/>
 
-## 📊 Stats & Achievements
+## 📊 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-wine.vercel.app?user=salmanasmat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+## 📈 Stats & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Contributions-Active-36BCF7?style=for-the-badge" alt="GitHub Contributions" />
