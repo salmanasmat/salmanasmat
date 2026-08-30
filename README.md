@@ -21,7 +21,7 @@
 - 💻 Passionate **Web and Software Developer** focused on building clean and efficient solutions
 - 🤖 **Philosophy:** Automating things out of pure laziness! If I have to do it twice, I write a script for it
 - 🚀 Exploring modern web frameworks and refining backend skills
-- 💬 Ask me about **Python, Automation, Desktop Apps, and Web Dev**
+- 💬 Ask me about **Python, Automation, Desktop Apps, Android Apps, and Web Dev**
 
 ---
 
