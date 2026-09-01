@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/42e1eca56080765c861f50d939e8bd3454787fa9abc433450c861e3e22c226cc/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d73616c6d616e6173 6d6174267468656d653d636c616e267469746c655f636f6c6f723d333642434637" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=salmanasmat&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
