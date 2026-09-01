@@ -21,7 +21,7 @@
 - 💻 Passionate **Web and Software Developer** focused on building clean and efficient solutions
 - 🤖 **Philosophy:** Automating things out of pure laziness! If I have to do it twice, I write a script for it
 - 🚀 Exploring modern web frameworks and refining backend skills
-- 💬 Ask me about **Python, Automation, Desktop Apps, Android Apps, and Web Dev**
+- 💬 Ask me about **Python, Automation, Desktop Apps, and Web Dev**
 
 ---
 
@@ -42,6 +42,10 @@
 ---
 
 ## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/42e1eca56080765c861f50d939e8bd3454787fa9abc433450c861e3e22c226cc/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d73616c6d616e6173 6d6174267468656d653d636c616e267469746c655f636f6c6f723d333642434637" alt="GitHub Streak Stats" />
+</p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salmanasmat&show_icons=true&theme=tokyonight&hide_border=true" />
