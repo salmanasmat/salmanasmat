@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descFontSize=29" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Salman%20Asmat&fontSize=90&fontAlignY=38&desc=Web%20and%20Software%20Developer&descAlignY=58&descSize=32" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness;Building+scalable+solutions;Writing+code+that+speaks+for+itself" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+things+out+of+pure+laziness;Building+clean+and+efficient+solutions;Turning+ideas+into+code" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="http://www.salmanasmat.com">
-    <img src="https://img.shields.io/badge/Website-salmanasmat.com-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  <a href="https://salmanasmat.com">
+    <img src="https://img.shields.io/badge/Portfolio-salmanasmat.com-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/salmanasmat">
     <img src="https://img.shields.io/badge/GitHub-salmanasmat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -22,6 +22,7 @@
 - 🤖 **Philosophy:** Automating things out of pure laziness! If I have to do it twice, I write a script for it
 - 🚀 Exploring modern web frameworks and refining backend skills
 - 💬 Ask me about **Python, Automation, Desktop Apps, and Web Dev**
+- 🌐 Check out my portfolio at **[salmanasmat.com](https://salmanasmat.com)**
 
 ---
 
@@ -41,11 +42,43 @@
 
 ---
 
+## 🌐 My Portfolio
+
+Visit **[salmanasmat.com](https://salmanasmat.com)** to explore:
+- 📱 Featured projects and case studies
+- 💼 Professional experience and skills
+- ✍️ Blog posts and technical insights
+- 📧 Get in touch and collaboration opportunities
+
+---
+
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=salmanasmat&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanasmat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Building modern web applications with React and Next.js
+- Developing automation scripts and tools
+- Exploring cloud technologies and DevOps practices
+- Contributing to open-source projects
+
+---
+
+## 💡 Fun Facts
+
+- ⚙️ I automate repetitive tasks to save time (and because I'm lazy!)
+- 🎮 I love solving problems through code
+- 📚 Continuous learner, always exploring new technologies
+- ☕ Coffee-driven developer
 
 ---
 
