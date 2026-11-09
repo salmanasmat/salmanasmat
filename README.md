@@ -55,11 +55,25 @@ Visit **[salmanasmat.com](https://salmanasmat.com)** to explore:
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=salmanasmat&theme=tokyonight" alt="GitHub Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/summary-dark.svg">
+    <img src="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/summary-light.svg" width="400" alt="GitHub stats summary">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/languages-light.svg" width="400" alt="Most used languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanasmat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/contributions-dark.svg">
+    <img src="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/weekly-dark.svg">
+    <img src="https://raw.githubusercontent.com/salmanasmat/salmanasmat/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+  </picture>
 </p>
 
 ---
